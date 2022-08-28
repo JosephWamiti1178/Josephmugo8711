@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Joseph Wamiti Mugo</h1>
 <h3 align="center">Data Science Student Intern at DevTown</h3>
-<img align="right" alt="Coding" width="400" src="portfolio.jpg">
+<img align="right" alt="Coding" width="400" src="wamiti.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wamiti8711&label=Profile%20views&color=0e75b6&style=flat" alt="wamiti8711" /> </p>
 
