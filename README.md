@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python for Data Science**
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **Python,Java, SQL**
 
 - 💬 Ask me about **Python, ML, AI**
 
