@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **HTML,CSS, Javascript**
 
-- 💬 Ask me about **Python, ML, AI**
+- 💬 Ask me about **Python, HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **josephmugo8711@gmail.com**
 
-- 📄 About my Achievements [DevTown Data Science Course Certified]
+- 📄 About my achievements **I have been building websites for one year**
 
 - ⚡ Fun fact **I started my coding journey on 2021**
 
