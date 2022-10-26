@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Joseph Wamiti Mugo</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">Real Estate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="wamiti.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Josephmugo8711&label=Profile%20views&color=0e75b6&style=flat" alt="Josephmugo8711" /> </p>
